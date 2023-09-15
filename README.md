@@ -1,0 +1,1 @@
+# veve_CRM_django
